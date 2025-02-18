@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-tlto62o5m_eh(8_f!#1v%_i-k-!is4rc(6y1-^dzgwq3w8^r8-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["oldpaperbank.onrender.com"]
 
 
 # Application definition
